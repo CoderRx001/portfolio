@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello, 
 
-Things you may want to cover:
+This is the code to my portfolio website. 
 
-* Ruby version
+Every Coder needs one. 
 
-* System dependencies
+Feel free to look over it and get some ideas. 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I am using Ruby, Rails, PostgreSQL, bootstrap theme ...
